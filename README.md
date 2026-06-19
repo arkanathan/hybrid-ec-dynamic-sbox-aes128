@@ -5,6 +5,12 @@ Implementasi Java pembangkitan **dynamic S-box** untuk AES-128 berbasis kurva el
 **Author:** Nathan Dava Arkananta (1301223297) — S1 Informatika, Universitas Telkom  
 **Stack:** Java + Bouncy Castle (`bcprov-jdk18on-1.83.jar`)
 
+## Naskah Tugas Akhir (PDF)
+
+| Berkas | Keterangan |
+|:---|:---|
+| [`docs/TugasAkhir_1301223297_NathanDavaArkananta.pdf`](docs/TugasAkhir_1301223297_NathanDavaArkananta.pdf) | Naskah lengkap Buku Tugas Akhir (ekspor dari `18JULI_Tugas Akhir - Nathan Dava Arkananta.docx`) |
+
 ## Berkas Sumber Utama
 
 | Berkas | Varian | Deskripsi |
@@ -55,6 +61,7 @@ Nilai rata-rata (selaras Tabel 4.2 naskah):
 ```
 hybrid-ec-dynamic-sbox-aes128/
   README.md
+  docs/TugasAkhir_1301223297_NathanDavaArkananta.pdf
   lib/bcprov-jdk18on-1.83.jar
   src/Varian1_StaticAES.java
   src/Varian2_StandardizedBaseline.java
