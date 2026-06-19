@@ -1,5 +1,5 @@
-Variant,Description,Runs,NL_avg,SAC_avg,DU_avg,Time_ms_avg,Memory_KB_avg,Bijective
-Varian 1,Static AES-128 S-box Baseline,100,112.0,0.5047,4.0,0.85,18689.38,Yes (all runs)
-Varian 2,Standardized EC Baseline (Ibrahim & Abbas),100,92.8,0.5028,11.2,687.31,66327.29,Yes (all runs)
-Varian 3,EC-Keyed Input Affine-Equivalent (CBPE Revised),100,112.0,0.5000,4.0,699.70,33189.94,Yes (all runs)
-Varian 4,EC-Keyed Output Affine-Equivalent (KDFP Revised),100,112.0,0.5000,4.0,738.20,47404.19,Yes (all runs)
+Varian,Keterangan,Run,NL_rata,SAC_rata,DU_rata,Waktu_ms_rata,Memori_KB_rata,Bijektif
+1,S-box statis AES-128,100,112.0,0.5047,4.0,0.85,18689.38,Ya
+2,Baseline EC shuffle-only,100,92.8,0.5028,11.2,687.31,66327.29,Ya
+3,CBPE,100,112.0,0.5000,4.0,699.70,33189.94,Ya
+4,KDFP,100,112.0,0.5000,4.0,738.20,47404.19,Ya
