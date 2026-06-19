@@ -1,0 +1,116 @@
+? VARIAN 3: EC-Keyed Affine-Equivalent Input Layer (CBPE Revised)
+S(x) = A_k(Inv(B_k╖x ? b_k)) ? c_k | Input affine (B,b) driven by h0 / coordinates
+D Selection = NL? ? DU? ? |SAC-0.5|? | Candidates = 32 | Runs = 100
+==================================================================================================================================
+Melakukan warm-up...
+Warm-up selesai.
+
+Run    1: NL=112 | SAC=0.4998 | DU= 4 | Time=663.13 ms | Memory=49665.31 KB | Bijective=true
+Run    2: NL=112 | SAC=0.4995 | DU= 4 | Time=680.28 ms | Memory=32397.72 KB | Bijective=true
+Run    3: NL=112 | SAC=0.5000 | DU= 4 | Time=728.41 ms | Memory=31612.31 KB | Bijective=true
+Run    4: NL=112 | SAC=0.5000 | DU= 4 | Time=617.10 ms | Memory=36152.84 KB | Bijective=true
+Run    5: NL=112 | SAC=0.5000 | DU= 4 | Time=666.38 ms | Memory=37371.54 KB | Bijective=true
+Run    6: NL=112 | SAC=0.5000 | DU= 4 | Time=735.76 ms | Memory=53506.19 KB | Bijective=true
+Run    7: NL=112 | SAC=0.5002 | DU= 4 | Time=844.64 ms | Memory=31840.16 KB | Bijective=true
+Run    8: NL=112 | SAC=0.5002 | DU= 4 | Time=830.04 ms | Memory=32271.46 KB | Bijective=true
+Run    9: NL=112 | SAC=0.5002 | DU= 4 | Time=628.38 ms | Memory=31501.38 KB | Bijective=true
+Run   10: NL=112 | SAC=0.5000 | DU= 4 | Time=627.42 ms | Memory=16534.22 KB | Bijective=true
+Run   11: NL=112 | SAC=0.5002 | DU= 4 | Time=670.95 ms | Memory=48318.00 KB | Bijective=true
+Run   12: NL=112 | SAC=0.5000 | DU= 4 | Time=874.03 ms | Memory=21255.58 KB | Bijective=true
+Run   13: NL=112 | SAC=0.5000 | DU= 4 | Time=668.98 ms | Memory= 5338.28 KB | Bijective=true
+Run   14: NL=112 | SAC=0.4998 | DU= 4 | Time=658.64 ms | Memory=36316.75 KB | Bijective=true
+Run   15: NL=112 | SAC=0.5002 | DU= 4 | Time=848.66 ms | Memory=52245.05 KB | Bijective=true
+Run   16: NL=112 | SAC=0.5000 | DU= 4 | Time=861.54 ms | Memory=33060.57 KB | Bijective=true
+Run   17: NL=112 | SAC=0.5000 | DU= 4 | Time=630.53 ms | Memory=12196.19 KB | Bijective=true
+Run   18: NL=112 | SAC=0.4993 | DU= 4 | Time=595.34 ms | Memory=32115.56 KB | Bijective=true
+Run   19: NL=112 | SAC=0.5005 | DU= 4 | Time=654.78 ms | Memory=37726.50 KB | Bijective=true
+Run   20: NL=112 | SAC=0.5000 | DU= 4 | Time=600.16 ms | Memory=25772.09 KB | Bijective=true
+Run   21: NL=112 | SAC=0.5000 | DU= 4 | Time=618.70 ms | Memory=32860.90 KB | Bijective=true
+Run   22: NL=112 | SAC=0.5000 | DU= 4 | Time=692.30 ms | Memory=36395.09 KB | Bijective=true
+Run   23: NL=112 | SAC=0.5000 | DU= 4 | Time=763.73 ms | Memory=51635.31 KB | Bijective=true
+Run   24: NL=112 | SAC=0.5000 | DU= 4 | Time=634.01 ms | Memory=32620.09 KB | Bijective=true
+Run   25: NL=112 | SAC=0.5000 | DU= 4 | Time=624.49 ms | Memory=27204.06 KB | Bijective=true
+Run   26: NL=112 | SAC=0.5000 | DU= 4 | Time=750.48 ms | Memory= 6728.19 KB | Bijective=true
+Run   27: NL=112 | SAC=0.5000 | DU= 4 | Time=655.33 ms | Memory=37376.07 KB | Bijective=true
+Run   28: NL=112 | SAC=0.5002 | DU= 4 | Time=818.27 ms | Memory=37611.58 KB | Bijective=true
+Run   29: NL=112 | SAC=0.5005 | DU= 4 | Time=752.31 ms | Memory=53212.52 KB | Bijective=true
+Run   30: NL=112 | SAC=0.5000 | DU= 4 | Time=885.98 ms | Memory=32596.43 KB | Bijective=true
+Run   31: NL=112 | SAC=0.4998 | DU= 4 | Time=787.84 ms | Memory= 9885.76 KB | Bijective=true
+Run   32: NL=112 | SAC=0.5000 | DU= 4 | Time=1020.42 ms | Memory=52972.67 KB | Bijective=true
+Run   33: NL=112 | SAC=0.4998 | DU= 4 | Time=930.52 ms | Memory=27482.13 KB | Bijective=true
+Run   34: NL=112 | SAC=0.5000 | DU= 4 | Time=749.92 ms | Memory=16779.91 KB | Bijective=true
+Run   35: NL=112 | SAC=0.4998 | DU= 4 | Time=926.12 ms | Memory=53245.09 KB | Bijective=true
+Run   36: NL=112 | SAC=0.5000 | DU= 4 | Time=796.90 ms | Memory=36398.85 KB | Bijective=true
+Run   37: NL=112 | SAC=0.5005 | DU= 4 | Time=730.83 ms | Memory=32380.52 KB | Bijective=true
+Run   38: NL=112 | SAC=0.4998 | DU= 4 | Time=812.06 ms | Memory=26650.12 KB | Bijective=true
+Run   39: NL=112 | SAC=0.5000 | DU= 4 | Time=714.13 ms | Memory=12268.78 KB | Bijective=true
+Run   40: NL=112 | SAC=0.4993 | DU= 4 | Time=811.91 ms | Memory=27113.34 KB | Bijective=true
+Run   41: NL=112 | SAC=0.5002 | DU= 4 | Time=733.66 ms | Memory=21452.31 KB | Bijective=true
+Run   42: NL=112 | SAC=0.5005 | DU= 4 | Time=819.33 ms | Memory=57247.31 KB | Bijective=true
+Run   43: NL=112 | SAC=0.4998 | DU= 4 | Time=810.83 ms | Memory=15536.19 KB | Bijective=true
+Run   44: NL=112 | SAC=0.4998 | DU= 4 | Time=734.75 ms | Memory=37002.42 KB | Bijective=true
+Run   45: NL=112 | SAC=0.4998 | DU= 4 | Time=777.04 ms | Memory=32207.81 KB | Bijective=true
+Run   46: NL=112 | SAC=0.5002 | DU= 4 | Time=917.88 ms | Memory=65998.25 KB | Bijective=true
+Run   47: NL=112 | SAC=0.5000 | DU= 4 | Time=879.09 ms | Memory=11109.88 KB | Bijective=true
+Run   48: NL=112 | SAC=0.5000 | DU= 4 | Time=722.81 ms | Memory=31728.49 KB | Bijective=true
+Run   49: NL=112 | SAC=0.4998 | DU= 4 | Time=747.20 ms | Memory=25920.32 KB | Bijective=true
+Run   50: NL=112 | SAC=0.5000 | DU= 4 | Time=723.99 ms | Memory= 7168.00 KB | Bijective=true
+Run   51: NL=112 | SAC=0.4995 | DU= 4 | Time=649.47 ms | Memory=31491.97 KB | Bijective=true
+Run   52: NL=112 | SAC=0.4998 | DU= 4 | Time=707.91 ms | Memory=32860.41 KB | Bijective=true
+Run   53: NL=112 | SAC=0.4995 | DU= 4 | Time=634.22 ms | Memory=36710.94 KB | Bijective=true
+Run   54: NL=112 | SAC=0.5000 | DU= 4 | Time=839.18 ms | Memory=66868.77 KB | Bijective=true
+Run   55: NL=112 | SAC=0.5000 | DU= 4 | Time=622.23 ms | Memory=89292.38 KB | Bijective=true
+Run   56: NL=112 | SAC=0.5000 | DU= 4 | Time=633.49 ms | Memory=26576.36 KB | Bijective=true
+Run   57: NL=112 | SAC=0.4998 | DU= 4 | Time=653.74 ms | Memory=11828.69 KB | Bijective=true
+Run   58: NL=112 | SAC=0.5000 | DU= 4 | Time=590.77 ms | Memory=32952.64 KB | Bijective=true
+Run   59: NL=112 | SAC=0.5000 | DU= 4 | Time=583.14 ms | Memory=27507.28 KB | Bijective=true
+Run   60: NL=112 | SAC=0.5000 | DU= 4 | Time=599.19 ms | Memory=51512.84 KB | Bijective=true
+Run   61: NL=112 | SAC=0.5000 | DU= 4 | Time=595.69 ms | Memory=11372.81 KB | Bijective=true
+Run   62: NL=112 | SAC=0.5000 | DU= 4 | Time=592.47 ms | Memory=32595.64 KB | Bijective=true
+Run   63: NL=112 | SAC=0.5002 | DU= 4 | Time=615.62 ms | Memory=53097.19 KB | Bijective=true
+Run   64: NL=112 | SAC=0.5002 | DU= 4 | Time=598.61 ms | Memory= 9992.20 KB | Bijective=true
+Run   65: NL=112 | SAC=0.5000 | DU= 4 | Time=594.49 ms | Memory=36272.31 KB | Bijective=true
+Run   66: NL=112 | SAC=0.5000 | DU= 4 | Time=598.53 ms | Memory=31388.91 KB | Bijective=true
+Run   67: NL=112 | SAC=0.5000 | DU= 4 | Time=600.05 ms | Memory=36153.70 KB | Bijective=true
+Run   68: NL=112 | SAC=0.4998 | DU= 4 | Time=589.50 ms | Memory=35750.67 KB | Bijective=true
+Run   69: NL=112 | SAC=0.5000 | DU= 4 | Time=577.62 ms | Memory=33496.63 KB | Bijective=true
+Run   70: NL=112 | SAC=0.5002 | DU= 4 | Time=601.21 ms | Memory=52545.52 KB | Bijective=true
+Run   71: NL=112 | SAC=0.5002 | DU= 4 | Time=590.74 ms | Memory=27602.61 KB | Bijective=true
+Run   72: NL=112 | SAC=0.5000 | DU= 4 | Time=606.21 ms | Memory=32560.21 KB | Bijective=true
+Run   73: NL=112 | SAC=0.5000 | DU= 4 | Time=599.72 ms | Memory=12221.81 KB | Bijective=true
+Run   74: NL=112 | SAC=0.5002 | DU= 4 | Time=601.30 ms | Memory=52361.33 KB | Bijective=true
+Run   75: NL=112 | SAC=0.5005 | DU= 4 | Time=597.37 ms | Memory=11827.63 KB | Bijective=true
+Run   76: NL=112 | SAC=0.5002 | DU= 4 | Time=591.08 ms | Memory=22450.44 KB | Bijective=true
+Run   77: NL=112 | SAC=0.5000 | DU= 4 | Time=598.85 ms | Memory=53248.00 KB | Bijective=true
+Run   78: NL=112 | SAC=0.5000 | DU= 4 | Time=595.83 ms | Memory=12010.38 KB | Bijective=true
+Run   79: NL=112 | SAC=0.5002 | DU= 4 | Time=600.90 ms | Memory=48317.59 KB | Bijective=true
+Run   80: NL=112 | SAC=0.4998 | DU= 4 | Time=591.10 ms | Memory=14895.46 KB | Bijective=true
+Run   81: NL=112 | SAC=0.5002 | DU= 4 | Time=646.50 ms | Memory=52360.47 KB | Bijective=true
+Run   82: NL=112 | SAC=0.5000 | DU= 4 | Time=615.99 ms | Memory=15920.07 KB | Bijective=true
+Run   83: NL=112 | SAC=0.5000 | DU= 4 | Time=617.55 ms | Memory=37024.38 KB | Bijective=true
+Run   84: NL=112 | SAC=0.4995 | DU= 4 | Time=589.28 ms | Memory=32130.77 KB | Bijective=true
+Run   85: NL=112 | SAC=0.4995 | DU= 4 | Time=590.78 ms | Memory=53337.70 KB | Bijective=true
+Run   86: NL=112 | SAC=0.5002 | DU= 4 | Time=615.44 ms | Memory=27098.63 KB | Bijective=true
+Run   87: NL=112 | SAC=0.4990 | DU= 4 | Time=607.65 ms | Memory=36388.59 KB | Bijective=true
+Run   88: NL=112 | SAC=0.5000 | DU= 4 | Time=610.51 ms | Memory=17689.79 KB | Bijective=true
+Run   89: NL=112 | SAC=0.4998 | DU= 4 | Time=600.93 ms | Memory=27565.41 KB | Bijective=true
+Run   90: NL=112 | SAC=0.5002 | DU= 4 | Time=605.57 ms | Memory=36152.76 KB | Bijective=true
+Run   91: NL=112 | SAC=0.5000 | DU= 4 | Time=604.79 ms | Memory=57356.31 KB | Bijective=true
+Run   92: NL=112 | SAC=0.5000 | DU= 4 | Time=595.26 ms | Memory=36510.88 KB | Bijective=true
+Run   93: NL=112 | SAC=0.5002 | DU= 4 | Time=584.11 ms | Memory=10674.47 KB | Bijective=true
+Run   94: NL=112 | SAC=0.5000 | DU= 4 | Time=595.51 ms | Memory=41494.78 KB | Bijective=true
+Run   95: NL=112 | SAC=0.5002 | DU= 4 | Time=1099.85 ms | Memory=51200.00 KB | Bijective=true
+Run   96: NL=112 | SAC=0.5000 | DU= 4 | Time=916.90 ms | Memory= 5267.27 KB | Bijective=true
+Run   97: NL=112 | SAC=0.5000 | DU= 4 | Time=892.51 ms | Memory=17195.47 KB | Bijective=true
+Run   98: NL=112 | SAC=0.4998 | DU= 4 | Time=885.96 ms | Memory=16524.30 KB | Bijective=true
+Run   99: NL=112 | SAC=0.5002 | DU= 4 | Time=972.45 ms | Memory=36151.13 KB | Bijective=true
+Run  100: NL=112 | SAC=0.5002 | DU= 4 | Time=844.63 ms | Memory=77201.70 KB | Bijective=true
+
+==================================================================================================================================
+=== VARIAN 3 AVERAGE (100 Runs) ===
+NL          : 112.0
+SAC         : 0.5000
+DU          : 4.0
+Waktu       : 699.70 ms
+Memory      : 33189.94 KB
+==================================================================================================================================

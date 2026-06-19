@@ -1,0 +1,112 @@
+? VARIAN 1: Static AES-128 S-box Baseline
+Runs = 100
+====================================================================================================
+Run   1: NL=112 | SAC=0.5031 | DU= 4 | Time=10.0026 ms | Bijective=true
+Run   2: NL=112 | SAC=0.5033 | DU= 4 | Time=3.3814 ms | Bijective=true
+Run   3: NL=112 | SAC=0.5053 | DU= 4 | Time=3.8422 ms | Bijective=true
+Run   4: NL=112 | SAC=0.5054 | DU= 4 | Time=1.5488 ms | Bijective=true
+Run   5: NL=112 | SAC=0.5058 | DU= 4 | Time=2.2399 ms | Bijective=true
+Run   6: NL=112 | SAC=0.5047 | DU= 4 | Time=1.6308 ms | Bijective=true
+Run   7: NL=112 | SAC=0.5042 | DU= 4 | Time=1.1823 ms | Bijective=true
+Run   8: NL=112 | SAC=0.5038 | DU= 4 | Time=0.8690 ms | Bijective=true
+Run   9: NL=112 | SAC=0.5028 | DU= 4 | Time=0.8570 ms | Bijective=true
+Run  10: NL=112 | SAC=0.5049 | DU= 4 | Time=0.8480 ms | Bijective=true
+Run  11: NL=112 | SAC=0.5038 | DU= 4 | Time=0.8604 ms | Bijective=true
+Run  12: NL=112 | SAC=0.5048 | DU= 4 | Time=0.8966 ms | Bijective=true
+Run  13: NL=112 | SAC=0.5037 | DU= 4 | Time=0.8530 ms | Bijective=true
+Run  14: NL=112 | SAC=0.5059 | DU= 4 | Time=0.8380 ms | Bijective=true
+Run  15: NL=112 | SAC=0.5066 | DU= 4 | Time=0.7689 ms | Bijective=true
+Run  16: NL=112 | SAC=0.5046 | DU= 4 | Time=1.2504 ms | Bijective=true
+Run  17: NL=112 | SAC=0.5050 | DU= 4 | Time=0.7781 ms | Bijective=true
+Run  18: NL=112 | SAC=0.5039 | DU= 4 | Time=0.7485 ms | Bijective=true
+Run  19: NL=112 | SAC=0.5050 | DU= 4 | Time=0.7181 ms | Bijective=true
+Run  20: NL=112 | SAC=0.5039 | DU= 4 | Time=0.7543 ms | Bijective=true
+Run  21: NL=112 | SAC=0.5059 | DU= 4 | Time=0.6801 ms | Bijective=true
+Run  22: NL=112 | SAC=0.5065 | DU= 4 | Time=0.6892 ms | Bijective=true
+Run  23: NL=112 | SAC=0.5039 | DU= 4 | Time=0.6926 ms | Bijective=true
+Run  24: NL=112 | SAC=0.5039 | DU= 4 | Time=2.0822 ms | Bijective=true
+Run  25: NL=112 | SAC=0.5041 | DU= 4 | Time=0.6595 ms | Bijective=true
+Run  26: NL=112 | SAC=0.5031 | DU= 4 | Time=0.6201 ms | Bijective=true
+Run  27: NL=112 | SAC=0.5050 | DU= 4 | Time=0.6656 ms | Bijective=true
+Run  28: NL=112 | SAC=0.5066 | DU= 4 | Time=0.5463 ms | Bijective=true
+Run  29: NL=112 | SAC=0.5027 | DU= 4 | Time=0.5750 ms | Bijective=true
+Run  30: NL=112 | SAC=0.5039 | DU= 4 | Time=0.5911 ms | Bijective=true
+Run  31: NL=112 | SAC=0.5050 | DU= 4 | Time=0.5141 ms | Bijective=true
+Run  32: NL=112 | SAC=0.5037 | DU= 4 | Time=0.5351 ms | Bijective=true
+Run  33: NL=112 | SAC=0.5036 | DU= 4 | Time=0.5106 ms | Bijective=true
+Run  34: NL=112 | SAC=0.5060 | DU= 4 | Time=0.5366 ms | Bijective=true
+Run  35: NL=112 | SAC=0.5036 | DU= 4 | Time=0.5257 ms | Bijective=true
+Run  36: NL=112 | SAC=0.5077 | DU= 4 | Time=0.6176 ms | Bijective=true
+Run  37: NL=112 | SAC=0.5045 | DU= 4 | Time=0.5112 ms | Bijective=true
+Run  38: NL=112 | SAC=0.5029 | DU= 4 | Time=0.5199 ms | Bijective=true
+Run  39: NL=112 | SAC=0.5040 | DU= 4 | Time=0.5070 ms | Bijective=true
+Run  40: NL=112 | SAC=0.5068 | DU= 4 | Time=0.5106 ms | Bijective=true
+Run  41: NL=112 | SAC=0.5056 | DU= 4 | Time=0.5061 ms | Bijective=true
+Run  42: NL=112 | SAC=0.5056 | DU= 4 | Time=0.5112 ms | Bijective=true
+Run  43: NL=112 | SAC=0.5026 | DU= 4 | Time=0.5059 ms | Bijective=true
+Run  44: NL=112 | SAC=0.5071 | DU= 4 | Time=0.5577 ms | Bijective=true
+Run  45: NL=112 | SAC=0.5025 | DU= 4 | Time=0.5139 ms | Bijective=true
+Run  46: NL=112 | SAC=0.5073 | DU= 4 | Time=0.5159 ms | Bijective=true
+Run  47: NL=112 | SAC=0.5045 | DU= 4 | Time=0.5077 ms | Bijective=true
+Run  48: NL=112 | SAC=0.5027 | DU= 4 | Time=0.5099 ms | Bijective=true
+Run  49: NL=112 | SAC=0.5042 | DU= 4 | Time=0.5251 ms | Bijective=true
+Run  50: NL=112 | SAC=0.5094 | DU= 4 | Time=0.6096 ms | Bijective=true
+Run  51: NL=112 | SAC=0.5086 | DU= 4 | Time=0.5252 ms | Bijective=true
+Run  52: NL=112 | SAC=0.5053 | DU= 4 | Time=0.5393 ms | Bijective=true
+Run  53: NL=112 | SAC=0.5049 | DU= 4 | Time=0.6563 ms | Bijective=true
+Run  54: NL=112 | SAC=0.5032 | DU= 4 | Time=0.6505 ms | Bijective=true
+Run  55: NL=112 | SAC=0.5056 | DU= 4 | Time=0.6246 ms | Bijective=true
+Run  56: NL=112 | SAC=0.5059 | DU= 4 | Time=0.6734 ms | Bijective=true
+Run  57: NL=112 | SAC=0.5012 | DU= 4 | Time=0.6618 ms | Bijective=true
+Run  58: NL=112 | SAC=0.5076 | DU= 4 | Time=0.7281 ms | Bijective=true
+Run  59: NL=112 | SAC=0.5027 | DU= 4 | Time=0.7061 ms | Bijective=true
+Run  60: NL=112 | SAC=0.5043 | DU= 4 | Time=0.6458 ms | Bijective=true
+Run  61: NL=112 | SAC=0.5038 | DU= 4 | Time=0.6224 ms | Bijective=true
+Run  62: NL=112 | SAC=0.5037 | DU= 4 | Time=0.6240 ms | Bijective=true
+Run  63: NL=112 | SAC=0.5050 | DU= 4 | Time=0.6391 ms | Bijective=true
+Run  64: NL=112 | SAC=0.5074 | DU= 4 | Time=0.7094 ms | Bijective=true
+Run  65: NL=112 | SAC=0.5026 | DU= 4 | Time=0.7053 ms | Bijective=true
+Run  66: NL=112 | SAC=0.5073 | DU= 4 | Time=0.7131 ms | Bijective=true
+Run  67: NL=112 | SAC=0.5017 | DU= 4 | Time=0.7277 ms | Bijective=true
+Run  68: NL=112 | SAC=0.5058 | DU= 4 | Time=0.6970 ms | Bijective=true
+Run  69: NL=112 | SAC=0.5038 | DU= 4 | Time=0.6628 ms | Bijective=true
+Run  70: NL=112 | SAC=0.5040 | DU= 4 | Time=0.6218 ms | Bijective=true
+Run  71: NL=112 | SAC=0.5056 | DU= 4 | Time=0.6807 ms | Bijective=true
+Run  72: NL=112 | SAC=0.5033 | DU= 4 | Time=0.7121 ms | Bijective=true
+Run  73: NL=112 | SAC=0.5050 | DU= 4 | Time=0.6314 ms | Bijective=true
+Run  74: NL=112 | SAC=0.5027 | DU= 4 | Time=0.6185 ms | Bijective=true
+Run  75: NL=112 | SAC=0.5059 | DU= 4 | Time=0.6254 ms | Bijective=true
+Run  76: NL=112 | SAC=0.5077 | DU= 4 | Time=0.6596 ms | Bijective=true
+Run  77: NL=112 | SAC=0.5010 | DU= 4 | Time=0.6353 ms | Bijective=true
+Run  78: NL=112 | SAC=0.5044 | DU= 4 | Time=0.6469 ms | Bijective=true
+Run  79: NL=112 | SAC=0.5047 | DU= 4 | Time=0.8174 ms | Bijective=true
+Run  80: NL=112 | SAC=0.5032 | DU= 4 | Time=0.6335 ms | Bijective=true
+Run  81: NL=112 | SAC=0.5052 | DU= 4 | Time=1.8485 ms | Bijective=true
+Run  82: NL=112 | SAC=0.5070 | DU= 4 | Time=0.5165 ms | Bijective=true
+Run  83: NL=112 | SAC=0.5052 | DU= 4 | Time=0.5119 ms | Bijective=true
+Run  84: NL=112 | SAC=0.5050 | DU= 4 | Time=0.6061 ms | Bijective=true
+Run  85: NL=112 | SAC=0.5026 | DU= 4 | Time=0.5244 ms | Bijective=true
+Run  86: NL=112 | SAC=0.5047 | DU= 4 | Time=0.5206 ms | Bijective=true
+Run  87: NL=112 | SAC=0.5039 | DU= 4 | Time=0.5839 ms | Bijective=true
+Run  88: NL=112 | SAC=0.5068 | DU= 4 | Time=0.5178 ms | Bijective=true
+Run  89: NL=112 | SAC=0.5055 | DU= 4 | Time=0.5241 ms | Bijective=true
+Run  90: NL=112 | SAC=0.5096 | DU= 4 | Time=0.5293 ms | Bijective=true
+Run  91: NL=112 | SAC=0.5071 | DU= 4 | Time=0.5114 ms | Bijective=true
+Run  92: NL=112 | SAC=0.5065 | DU= 4 | Time=0.5293 ms | Bijective=true
+Run  93: NL=112 | SAC=0.5053 | DU= 4 | Time=0.5151 ms | Bijective=true
+Run  94: NL=112 | SAC=0.5029 | DU= 4 | Time=0.5161 ms | Bijective=true
+Run  95: NL=112 | SAC=0.5052 | DU= 4 | Time=0.5085 ms | Bijective=true
+Run  96: NL=112 | SAC=0.5046 | DU= 4 | Time=0.5117 ms | Bijective=true
+Run  97: NL=112 | SAC=0.5041 | DU= 4 | Time=0.5229 ms | Bijective=true
+Run  98: NL=112 | SAC=0.5017 | DU= 4 | Time=0.5172 ms | Bijective=true
+Run  99: NL=112 | SAC=0.5029 | DU= 4 | Time=0.5108 ms | Bijective=true
+Run 100: NL=112 | SAC=0.5022 | DU= 4 | Time=0.5311 ms | Bijective=true
+
+====================================================================================================
+=== VARIAN 1 AVERAGE - Static AES-128 S-box Baseline ===
+NL          : 112.0
+SAC         : 0.5047
+DU          : 4.0
+Waktu       : 0.8487 ms
+Memory (avg): 18689.38 KB
+====================================================================================================
