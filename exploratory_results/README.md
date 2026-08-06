@@ -1,8 +1,18 @@
-# Summary metrics exploratory E1–E8 (100 run)
+# Exploratory results (E1–E8)
 
-Sumber internal trial pra-final. **Bukan** hasil Bab 4 official.
+Ringkasan metrik **100 run** untuk rancangan pra-final **E1–E8**.
 
-Mapping file: lihat `exploratory/README.md`.
+| | |
+|--|--|
+| **Kode** | [`../exploratory/`](../exploratory/) — file `E1_*.java` … `E8_*.java` |
+| **Naskah** | **Lampiran B** (tabel metrik); repositori ini = **Lampiran A** |
+| **Bukan** | Hasil Bab 4 / official `src/Varian1`–`Varian4` |
 
-Legacy labels di log lama: Varian3_Fusion=E1, Stage1=E2, New=E3, New_v2=E4, New_v3A1=E5, Stage2=E6, Stage2_Revised=E7, Varian4B=E8.
+## Berkas
 
+| File | Isi |
+|------|-----|
+| [`SUMMARY_E1_E8_FULL_METRICS.md`](SUMMARY_E1_E8_FULL_METRICS.md) | Tabel lengkap (label **E1–E8**) |
+| [`SUMMARY_E1_E8_FULL_METRICS.csv`](SUMMARY_E1_E8_FULL_METRICS.csv) | Data tabular |
+
+Semua baris memakai label **E1–E8** (bukan nama legacy `Varian3_*` / `Varian4_*`).

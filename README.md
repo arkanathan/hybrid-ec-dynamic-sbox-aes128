@@ -14,7 +14,7 @@ Juga menyertakan arsip rancangan **eksplorasi pra-final E1–E8** (Lampiran A) d
 
 | Berkas | Keterangan |
 |:---|:---|
-| [`docs/TugasAkhir_1301223297_NathanDavaArkananta.pdf`](docs/TugasAkhir_1301223297_NathanDavaArkananta.pdf) | Naskah Buku Tugas Akhir (ekspor PDF; perbarui jika naskah revisi berubah) |
+| [`docs/TugasAkhir_1301223297_NathanDavaArkananta.pdf`](docs/TugasAkhir_1301223297_NathanDavaArkananta.pdf) | Ekspor PDF naskah revisi pasca sidang (judul dospem + Lampiran A/B) |
 
 ## Official (Bab 4) — folder `src/`
 
