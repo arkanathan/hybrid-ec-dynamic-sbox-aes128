@@ -8,3 +8,7 @@ Thumbs.db
 .vscode/
 *.iml
 target/
+# local helper scripts
+_setup_*.py
+_export_*.py
+

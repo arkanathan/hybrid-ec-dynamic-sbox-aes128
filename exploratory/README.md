@@ -1,6 +1,9 @@
 # Exploratory designs (E1–E8) — pra-final
 
-Folder ini berisi rancangan **eksplorasi pra-final** yang dilaporkan di **Lampiran A** buku TA (label ilmiah **E1–E8**).
+Folder ini berisi rancangan **eksplorasi pra-final** berlabel ilmiah **E1–E8**.
+
+- **Metrik / tabel hasil** E1–E8 → **Lampiran B** buku TA  
+- **Repositori ini (kode)** → **Lampiran A** buku TA  
 
 **Bukan** kode evaluasi final Bab 4. Kode official final ada di folder `../src/` (`Varian1` … `Varian4_KDFP`).
 

@@ -49,9 +49,16 @@ Folder `results/`:
 | V3 (CBPE) | 112,0 | 4,0 | 0,5000 |
 | V4 (KDFP) | 112,0 | 4,0 | 0,5000 |
 
+## Lampiran naskah (mapping)
+
+| Lampiran buku | Isi |
+|:---|:---|
+| **A** | Repositori ini (kode sumber) — URL halaman GitHub |
+| **B** | Tabel metrik evaluasi E1–E8 (pra-final), bukan klaim Bab 4 |
+
 ## Exploratory E1–E8 (pra-final) — folder `exploratory/`
 
-Rancangan trial-error **sebelum** desain final affine. Nama file **ber-prefix E1–E8** (tanpa nama `Varian3_*` / `Varian4_*`).
+Rancangan trial-error **sebelum** desain final affine. Nama file **ber-prefix E1–E8** (tanpa nama `Varian3_*` / `Varian4_*`). Sumber kode untuk **Lampiran A**; angka metrik di naskah ada di **Lampiran B**.
 
 Lihat **[`exploratory/README.md`](exploratory/README.md)** untuk mapping lengkap.
 
