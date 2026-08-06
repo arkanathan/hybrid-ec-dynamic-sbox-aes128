@@ -1,6 +1,6 @@
-# S-box berbasis Kurva Eliptik untuk AES-128
+# Dynamic S-Box berbasis Kurva Eliptik untuk AES-128
 
-Implementasi Java pembangkitan **S-box key-dependent berbasis kurva eliptik, membandingkan empat rancangan **official** (Bab 4): baseline statis, baseline EC shuffle-only, **CBPE**, dan **KDFP**.
+Implementasi Java pembangkitan **dynamic S-box** berbasis kurva eliptik, membandingkan empat rancangan **official** (Bab 4): baseline statis, baseline EC shuffle-only, **CBPE**, dan **KDFP**.
 
 Juga menyertakan arsip rancangan **eksplorasi pra-final E1–E8** (Lampiran A) di folder `exploratory/` — **bukan** klaim hasil final.
 
@@ -8,7 +8,7 @@ Juga menyertakan arsip rancangan **eksplorasi pra-final E1–E8** (Lampiran A) d
 **Stack:** Java + Bouncy Castle (`bcprov-jdk18on-1.83.jar`)
 
 **Judul TA (disetujui dospem):**  
-*Pengembangan S-Box Berbasis Kurva Eliptik untuk AES-128 Menggunakan Pembangkit Bilangan Acak dan Parameter Kunci*
+*Pengembangan S-Box Dinamis Berbasis Kurva Eliptik untuk AES-128 Menggunakan Pembangkit Bilangan Acak dan Parameter Kunci*
 
 ## Naskah Tugas Akhir (PDF)
 
